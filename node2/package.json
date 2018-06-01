@@ -1,0 +1,22 @@
+{
+  "name": "demo_from_youtube",
+  "version": "1.0.0",
+  "description": "try",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bhandarikdr"
+  },
+  "keywords": [
+    "whatever"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
